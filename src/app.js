@@ -1,8 +1,8 @@
 function generarExcusa() {
-  let who = ["The dog", "My grandma", "The mailman", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
-  let what = ["my homework", "my phone", "the car"];
-  let when = [
+  const who = ["The dog", "My grandma", "The mailman", "My bird"];
+  const action = ["ate", "peed", "crushed", "broke"];
+  const what = ["my homework", "my phone", "the car"];
+  const when = [
     "before the class",
     "when I was sleeping",
     "while I was exercising",
